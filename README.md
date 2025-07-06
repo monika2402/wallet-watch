@@ -20,11 +20,11 @@
 
 ## 📹 Demo Video
 
-👉 [Click here to watch the demo](https://drive.google.com/file/d/1XfPXFBKfdDzWRgcrFYyhNX9A4bT3gYvJ/view?usp=sharing)
+👉 [Click here to watch the demo]([https://drive.google.com/file/d/1XfPXFBKfdDzWRgcrFYyhNX9A4bT3gYvJ/view?usp=sharing](https://drive.google.com/file/d/1oUHqK40cKfNTEgpLVftXP3zW62BCrjd2/view?usp=sharing))
 
 Or preview below:
 
-![Demo](https://drive.google.com/file/d/1XfPXFBKfdDzWRgcrFYyhNX9A4bT3gYvJ/view?usp=sharing)
+![Demo]([https://drive.google.com/file/d/1XfPXFBKfdDzWRgcrFYyhNX9A4bT3gYvJ/view?usp=sharing](https://drive.google.com/file/d/1oUHqK40cKfNTEgpLVftXP3zW62BCrjd2/view?usp=sharing))
 
 
 ## ✅ Features
@@ -64,39 +64,6 @@ Or preview below:
 - JWT (authentication)
 - Bcrypt (password hashing)
 - CORS, Helmet, dotenv
-
----
-
-## 🗂️ Project Structure (Simplified)
-
-client/
-├── pages/ (Login, Register, Dashboard)
-├── components/
-├── PdfBulkUploader.jsx
-├── ReceiptUploader.jsx
-├── TransactionsList.jsx
-├── Analytics.jsx
-├── context/AuthContext.js
-├── App.js
-
-server/
-├── controllers/
-├── authController.js
-├── transactionController.js
-├── pdfController.js
-├── routes/
-├── authRoutes.js
-├── transactionRoutes.js
-├── uploadRoutes.js
-├── utils/
-├── receiptParser.js
-├── pdfParser.js
-├── middleware/
-├── authMiddleware.js
-├── models/
-├── User.js
-├── Transaction.js
-
 
 ---
 
