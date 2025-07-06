@@ -20,11 +20,11 @@
 
 ## 📹 Demo Video
 
-👉 [Click here to watch the demo]([https://drive.google.com/file/d/1XfPXFBKfdDzWRgcrFYyhNX9A4bT3gYvJ/view?usp=sharing](https://drive.google.com/file/d/1oUHqK40cKfNTEgpLVftXP3zW62BCrjd2/view?usp=sharing))
+👉 [Click here to watch the demo](https://drive.google.com/file/d/1XfPXFBKfdDzWRgcrFYyhNX9A4bT3gYvJ/view?usp=sharing](https://drive.google.com/file/d/1oUHqK40cKfNTEgpLVftXP3zW62BCrjd2/view?usp=sharing)
 
 Or preview below:
 
-![Demo]([https://drive.google.com/file/d/1XfPXFBKfdDzWRgcrFYyhNX9A4bT3gYvJ/view?usp=sharing](https://drive.google.com/file/d/1oUHqK40cKfNTEgpLVftXP3zW62BCrjd2/view?usp=sharing))
+![Demo](https://drive.google.com/file/d/1XfPXFBKfdDzWRgcrFYyhNX9A4bT3gYvJ/view?usp=sharing](https://drive.google.com/file/d/1oUHqK40cKfNTEgpLVftXP3zW62BCrjd2/view?usp=sharing)
 
 
 ## ✅ Features
